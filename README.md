@@ -8,13 +8,14 @@
 
 
 ## Languages and tools:
-[<img align="left" alt="Python" width="24px" src="icons/python.png"/>](https://python.org)
-[<img align="left" alt="Java" width="26px" src="icons/java.png"/>](https://www.java.com/en/)
-[<img align="left" alt="Flutter" width="20px" src="icons/flutter.svg"/>](https://flutter.dev/)
-[<img align="left" alt="Git" width="24px" src="icons/git.png"/>](https://git-scm.com/)
-[<img align="left" alt="Visual Studio Code" width="24px" src="icons/vscode.png"/>](https://code.visualstudio.com/)
+[<img align="left" alt="Python" width="28px" src="icons/python.png"/>](https://python.org)
+[<img align="left" alt="Java" width="30px" src="icons/java.png"/>](https://www.java.com/en/)
+[<img align="left" alt="Flutter" width="24px" src="icons/flutter.svg"/>](https://flutter.dev/)
+[<img align="left" alt="Git" width="28px" src="icons/git.png"/>](https://git-scm.com/)
+[<img align="left" alt="Visual Studio Code" width="28px" src="icons/vscode.png"/>](https://code.visualstudio.com/)
 
 <br>
 
-## Github Statistics
+
+## Github Statistics:
 ![Github Statistics](https://github-readme-stats.vercel.app/api?username=aegonix)
