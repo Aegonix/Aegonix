@@ -5,7 +5,7 @@
 - I get bored extremely quickly.
 - [My Discord](https://discord.com/users/538009859778543616)
 
-<br>
+
 
 ## Languages and tools:
 [<img align="left" alt="Python" width="24px" src="icons/python.png"/>](https://python.org)
@@ -14,7 +14,7 @@
 [<img align="left" alt="Git" width="24px" src="icons/git.png"/>](https://git-scm.com/)
 [<img align="left" alt="Visual Studio Code" width="24px" src="icons/vscode.png"/>](https://code.visualstudio.com/)
 
-<br>
+
 
 ## Github Statistics
 ![Github Statistics](https://github-readme-stats.vercel.app/api?username=aegonix)
