@@ -14,7 +14,7 @@
 [<img align="left" alt="Git" width="24px" src="icons/git.png"/>](https://git-scm.com/)
 [<img align="left" alt="Visual Studio Code" width="24px" src="icons/vscode.png"/>](https://code.visualstudio.com/)
 
-
+<br>
 
 ## Github Statistics
 ![Github Statistics](https://github-readme-stats.vercel.app/api?username=aegonix)
