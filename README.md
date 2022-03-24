@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hey! I'm Aegonix
 
-<!--
-**Aegonix/Aegonix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Some things about me: 
+- I'm currently working on a project using flutter and hope to finish it before the end of the year.
+- I get bored extremely quickly.
+- [My Discord](https://discord.com/users/538009859778543616)
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and tools:
+[<img align="left" alt="Python" width="24px" src="icons/python.png"/>](https://python.org)
+[<img align="left" alt="Java" width="26px" src="icons/java.png"/>](https://www.java.com/en/)
+[<img align="left" alt="Flutter" width="20px" src="icons/flutter.svg"/>](https://flutter.dev/)
+[<img align="left" alt="Git" width="24px" src="icons/git.png"/>](https://git-scm.com/)
+[<img align="left" alt="Visual Studio Code" width="24px" src="icons/vscode.png"/>](https://code.visualstudio.com/)
+
+<br>
+
+## Github Statistics
+![Github Statistics](https://github-readme-stats.vercel.app/api?username=aegonix)
